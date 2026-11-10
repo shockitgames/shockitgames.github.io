@@ -172,3 +172,18 @@ Keep game source archives, Android builds, signing keys, passwords and
 credentials out of this public website repository.
 
 No open-source license is granted by this README or website package.
+
+
+## FactFlip version 1.1 advertising update — 10 November 2026
+
+The newer prepared source adds local Curiosity Coins, cosmetic frames/covers/themes,
+pixel postcards and profile badges, plus Google AdMob rewarded and level-end
+interstitial integration. Development uses test ad units. The earlier 9 November
+ad-free notes describe version 1.0; they do not describe version 1.1's advertising SDK.
+
+The FactFlip privacy page now distinguishes both versions and covers Google ad/UMP
+data processing, local age/ad preferences, cosmetic ownership and reset behavior.
+Before releasing the advertising-enabled build, configure the real AdMob App ID,
+privacy messages and publisher units; run device test-ad/consent checks and update
+Google Play's Contains ads and Data safety declarations. No production ad activation
+or Android release validation is implied by this website update.
